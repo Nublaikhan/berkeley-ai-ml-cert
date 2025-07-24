@@ -53,3 +53,9 @@ Recommendation:
 For Coffee House coupons, younger drivers should be targeted before 3p.  If the
 driver is with friends, then the acceptance of the coupon is increasingly likely.
 If it is known they are with friends, then the coupon should be offered.
+
+Next Steps:
+We should do some additional data management.  There are a lot of string data in
+this dataframe that could be converted to numeric representation so that additional
+correlations can be determined.  This would allow us to find high rate acceptance
+groups for each coupon type.
