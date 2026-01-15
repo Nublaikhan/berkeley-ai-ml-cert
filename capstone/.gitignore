@@ -1,0 +1,3 @@
+**/radar_dataset_*.*
+**/__pycache__/
+**/*.pyc
